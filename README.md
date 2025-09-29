@@ -1,4 +1,4 @@
-# Kasper Project
+#Kasper | Responsive Multipurpose Website Template
 
 # [Live Demo](https://lnkd.in/dbdrTpBe)
 
